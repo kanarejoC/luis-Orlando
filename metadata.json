@@ -1,0 +1,8 @@
+{
+  "name": "Remix ArriendaFacil",
+  "description": "App de arriendos para locales, departamentos y casas en sectores rurales y urbanos, con vinculación bancaria/cooperativa, contratos digitales con firma táctil, gestión de vigencia, renovación y notificaciones de pago.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
